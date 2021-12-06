@@ -4,3 +4,4 @@ class Simple{
     }  
 }
 //This Java program will print my Message 
+//This is my second commit
