@@ -4,6 +4,7 @@ class Simple{
 
 // Prints "Hello World"
      System.out.println("Welcome to JAVA");
+     System.out.println("Welcome to S2");
      System.out.println("Welcome to Git");
     }  
 }
